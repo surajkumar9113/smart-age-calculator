@@ -24,7 +24,7 @@ View your age in years, months, and days
 
 🔗 Live Demo: https://surajkumar9113.github.io/smart-age-calculator
 
-GitHub: https://github.com/surajkumar9113
+🔗  GitHub: https://github.com/surajkumar9113
 
 🤝 Contributing
 
